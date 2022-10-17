@@ -9,4 +9,3 @@
 <p>Run (if you want to connect): <code>python client.py</code></p>
 <p>Enter you NAME and SERVER IP</p>
   
-<a href="instaagram.com">My instagram</a>
