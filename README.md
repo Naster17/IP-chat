@@ -8,4 +8,7 @@
 <p>Run (if you want to connect to you): <code>python server.py</code></p>
 <p>Run (if you want to connect): <code>python client.py</code></p>
 <p>Enter you NAME and SERVER IP</p>
-  
+ 
+
+<p>Using in local networks or white IP`s. Open firewall if need it
+</p>
